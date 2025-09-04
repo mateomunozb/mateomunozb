@@ -56,13 +56,14 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/mateomunozb/releases/releases/tag/v0.1.0) in [mateomunozb/releases](https://github.com/mateomunozb/releases)<br>
-2. ⬆️ Pushed 1 commit(s) to [mateomunozb/releases](https://github.com/mateomunozb/releases)<br>
-3. 📔 Created new repository [mateomunozb/releases](https://github.com/mateomunozb/releases)<br>
+1. 📔 Created new repository [mateomunozb/movies-play-plus](https://github.com/mateomunozb/movies-play-plus)<br>
+2. ✌️ Released [v0.1.0](https://github.com/mateomunozb/releases/releases/tag/v0.1.0) in [mateomunozb/releases](https://github.com/mateomunozb/releases)<br>
+3. ⬆️ Pushed 1 commit(s) to [mateomunozb/releases](https://github.com/mateomunozb/releases)<br>
+4. 📔 Created new repository [mateomunozb/releases](https://github.com/mateomunozb/releases)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 4th, 2025, 12:25:15 PM
+Last Updated: Thursday, September 4th, 2025, 12:59:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
