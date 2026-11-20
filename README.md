@@ -56,15 +56,15 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
-2. 💪 Opened PR [#3](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
-3. ⬆️ Pushed undefined commit(s) to [mateomunozb/cicd-pipeline-python-cd](https://github.com/mateomunozb/cicd-pipeline-python-cd)<br>
-4. ⬆️ Pushed undefined commit(s) to [mateomunozb/cicd-pipeline-python-cd](https://github.com/mateomunozb/cicd-pipeline-python-cd)<br>
-5. 👍 Approved [#2](https://github.com/mateomunozb/cicd-pipeline-python-cd/pull/2#pullrequestreview-5914124770) in [mateomunozb/cicd-pipeline-python-cd](https://github.com/mateomunozb/cicd-pipeline-python-cd)<br>
+1. 💪 Opened PR [#10](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
+2. 💪 Opened PR [#9](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
+3. 💪 Opened PR [#8](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
+4. 💪 Opened PR [#7](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
+5. 💪 Opened PR [#6](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 19th, 2026, 7:47:28 PM
+Last Updated: Friday, November 20th, 2026, 5:04:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
