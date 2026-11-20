@@ -56,15 +56,15 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#10](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
-2. 💪 Opened PR [#9](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
-3. 💪 Opened PR [#8](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
-4. 💪 Opened PR [#7](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
-5. 💪 Opened PR [#6](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
+1. 💪 Opened PR [#15](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
+2. 💪 Opened PR [#14](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
+3. 💪 Opened PR [#13](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
+4. 💪 Opened PR [#12](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
+5. 💪 Opened PR [#11](undefined) in [mateomunozb/jobbi](https://github.com/mateomunozb/jobbi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 20th, 2026, 5:04:34 AM
+Last Updated: Friday, November 20th, 2026, 7:27:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
